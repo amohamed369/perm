@@ -27,7 +27,7 @@
     "build-storybook": "storybook build"
   },
   "dependencies": {
-    "@ai-sdk/google": "^2.0.52",
+    "@ai-sdk/google": "^3.0.13",
     "@ai-sdk/openai": "^2.0.89",
     "@ai-sdk/react": "^2.0.119",
     "@auth/core": "^0.37.4",
