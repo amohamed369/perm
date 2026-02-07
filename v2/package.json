@@ -29,7 +29,7 @@
   "dependencies": {
     "@ai-sdk/google": "^2.0.52",
     "@ai-sdk/openai": "^2.0.89",
-    "@ai-sdk/react": "^2.0.119",
+    "@ai-sdk/react": "^3.0.70",
     "@auth/core": "^0.41.1",
     "@convex-dev/auth": "^0.0.90",
     "@convex-dev/rag": "^0.7.0",
